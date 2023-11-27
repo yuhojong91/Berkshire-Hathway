@@ -1,0 +1,32 @@
+header {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+body {
+    color:midnightblue;
+}
+#url_body {
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly;
+}
+
+li {
+    margin: 5%;
+}
+
+#left {
+    display: flex;
+    flex-direction: column;
+}
+
+#right {
+    display: flex;
+    flex-direction: column;
+}
+
+#geico_footer {
+    text-align: center;
+}
